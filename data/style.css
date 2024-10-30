@@ -1,0 +1,18 @@
+.sf-lol-free-champion-rotation {
+	margin: auto auto 1em auto;
+}
+.sf-lol-free-champion-rotation .sf-author {
+	text-align: right;
+	font-size: 0.75em;
+}
+.sf-lol-free-champion-rotation iframe {
+	width: 100%;
+	max-width: none;
+	margin: 0;
+}
+.sf-lol-champions {
+	line-height: 0;
+}
+.sf-lol-champions img {
+	width: 20%;
+}
